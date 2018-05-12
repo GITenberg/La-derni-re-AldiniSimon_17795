@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/851
     wikipedia: http://en.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17795#La-derni-re-AldiniSimon
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-02-19'
 gutenberg_type: Text
